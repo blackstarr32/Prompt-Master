@@ -1,0 +1,5 @@
+{
+  "name": "PromptMaster AI",
+  "description": "An advanced AI-powered tool to create, refine, and reverse-engineer prompts for image and video generation models. Uses Gemini to analyze existing media or expand simple ideas into professional-grade prompts.",
+  "requestFramePermissions": []
+}
